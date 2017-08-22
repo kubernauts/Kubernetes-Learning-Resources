@@ -9,5 +9,10 @@ This is a collection of Kubernetes learning resources mantained by [@kubernauts]
 4. [Nice and important to know](./pages/nices.md)
 5. [Professional Training Partners and Enablers](./pages/professionals.md)
 
-Please join our Kubernauts Worldwide Meetup to learn, teach or work on real world problems and projects: [Meetup](
-https://www.meetup.com/kubernauts/)
+Please join our [Kubernauts Worldwide Meetup](
+https://www.meetup.com/kubernauts/) to learn, teach or work on real world problems and projects.
+
+
+If you're looking for a Vendor/Community-Maintained Kubernetes Offerings (Distros/PaaS/Managed), please follow [this sheet](https://goo.gl/WyNWM5) created and maintained by Joseph Jacks (@asynchio).
+
+If you're using any Vendor/Community-Maintained Kubernetes Offerings, please take [this survey](https://goo.gl/2PbCVe).
