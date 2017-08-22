@@ -2,7 +2,7 @@
 
 | Title | Author(s) | Category | Commercial | Source |
 | ----- | --------- | -------- | ---------- | ------ |
-| Kubernetes By Example (everybody should enjoy this :-)) | OpenShift team (@mhausenblas) | hands-on |  | [Link](http://kubernetesbyexample.com/) |
+| Kubernetes By Example | OpenShift team (@mhausenblas) | hands-on |  | [Link](http://kubernetesbyexample.com/) |
 | "How to create CI/CD pipeline with autodeploy to Kubernetes using GitLab and Helm" | @SergeyNuzhdin | HowTo |  | [Link](https://goo.gl/UKEFGl) |
 | Deploying Envoy With a Python Flask Web App and Kubernetes | Flynn | HowTo |  |  [Link](https://goo.gl/QjdLJj) |
 | Getting Started with GitLab CI with Containers (Part 1) | @solidnerd | HowTo |  |  [Link](https://goo.gl/0uGJC4) |
