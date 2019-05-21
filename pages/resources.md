@@ -16,7 +16,7 @@
 | Getting Started with Kubernetes | Arun Gupta | Intro | No | [link](https://dzone.com/refcardz/kubernetes-essentials) |
 | Kubernetes Patterns | Bilgin Ibryam / Roland Huß | Book | Yes | [link](https://leanpub.com/k8spatterns/) |
 | Kubernetes Production Patterns | Gravitational team | Patterns |  | [link](https://github.com/gravitational/workshop/blob/master/k8sprod.md) |
-| Self-guided k8s-workshops | @ryanj  | Presentation | No | [link](bit.ly/k8s-workshops ) |
+| Self-guided k8s-workshops | @ryanj  | Presentation | No | [link](https://bit.ly/k8s-workshops ) |
 | Kubernetes 101 | @jbeda | Presentation | No | [link](http://slides.eightypercent.net/kubernetes-101/#1) |
 | Getting Started With Kubernetes (Video, HandsOn & Books) | David Strebel | article | No | [link](https://medium.com/@strebeld/getting-started-with-kubernetes-d9a14955574b) |
 | Kubernetes Demos and Presentations by Apprenda | Apprenda | demos | No | [link](https://apprenda.com/thank-you/kubernetes-demos-2/) |
