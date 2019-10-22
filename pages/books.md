@@ -2,7 +2,7 @@
 | Title | Author(s) | Category | Commercial | Source |
 | ----- | --------- | -------- | ---------- | ------ |
 | Kubernetes Patterns | Bilgin Ibryam and Roland Huß | Book | Yes | [Link](https://leanpub.com/k8spatterns/) |
-| Kubernetes: Up and Running | Kelsey Hightower, Brendan Burns, Joe Beda | Book | Yes | [Link](http://shop.oreilly.com/product/0636920043874.do) |
+| Kubernetes: Up and Running, 2nd Edition | Kelsey Hightower, Brendan Burns, Joe Beda | Book | Yes | [Link](http://shop.oreilly.com/product/0636920223788.do) |
 | Designing Distributed Systems | Brendan Burns | Book | Yes | [Link](http://shop.oreilly.com/product/0636920072768.do) |
 | Kubernetes and Red Hat OpenShift | DAVID K. RENSIN | Book | No | [Link](https://www.openshift.com/promotions/kubernetes.html) |
 | Awesome-Kubernetes (Git book) | Ramit Surana | Book | No | [Link](https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/details) |
