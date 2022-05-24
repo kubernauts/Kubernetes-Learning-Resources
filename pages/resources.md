@@ -23,3 +23,4 @@
 | Kubernetes: Understanding Pods vs. Containers | Tim Hockin | Presentation | No | [link](https://speakerdeck.com/thockin/kubernetes-understanding-pods-vs-containers) |
 | Kubernetes Deep Dive: API Server – Part 2  | @mhausenblas & @the1stein  | article | No | [link](https://blog.openshift.com/kubernetes-deep-dive-api-server-part-2/) |
 | Kubernetes Deep Dive: API Server – Part 3 (NEW) | @mhausenblas & @the1stein  | article | No | [link](https://blog.openshift.com/kubernetes-deep-dive-api-server-part-3a/) |
+| List of free Kubernetes courses | @skillcombo | Online courses | No | [link](https://skillcombo.com/topic/kubernetes/free/) |
